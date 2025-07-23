@@ -9,6 +9,7 @@ public class Anagram {
         // Arrays.sort(sArray);
         // Arrays.sort(tArray);
         // return Arrays.equals(sArray, tArray);
+        // This is the shoet and inbuilt logic
 
         String temp = "";
 
