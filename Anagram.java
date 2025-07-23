@@ -10,6 +10,7 @@ public class Anagram {
         // Arrays.sort(tArray);
         // return Arrays.equals(sArray, tArray);
         // This is perfect
+        // This is the shoet and inbuilt logic
 
         String temp = "";
 
